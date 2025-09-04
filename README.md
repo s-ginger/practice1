@@ -1,0 +1,1 @@
+ссылка на [проект](https://github.com/s-ginger/AndroidNotesApp)
